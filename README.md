@@ -1,7 +1,16 @@
 ### Hi there 👋
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,pug,figma)
+<img src='https://skillicons.dev/icons?i=html' alt='HTML' title='HTML' width='48px' height='48px'> <img src='https://skillicons.dev/icons?i=css' alt='CSS' title='CSS' width='48px' height='48px'>
+<img src='https://skillicons.dev/icons?i=js' alt='JavaScript' title='JavaScript' width='48px' height='48px'>
+<img src='https://skillicons.dev/icons?i=ts' alt='TypeScript' title='TypeScript' width='48px' height='48px'>
+<img src='https://skillicons.dev/icons?i=react' alt='React' title='React' width='48px' height='48px'>
+<img src='https://skillicons.dev/icons?i=next' alt='Next.js' title='Next.js' width='48px' height='48px'>
+<img src='https://skillicons.dev/icons?i=tailwind' alt='Tailwind' title='Tailwind' width='48px' height='48px'>
+<img src='https://skillicons.dev/icons?i=sass' alt='Sass' title='Sass' width='48px' height='48px'>
+<img src='https://skillicons.dev/icons?i=pug' alt='Pug / Jade' title='Pug / Jade' width='48px' height='48px'>
+<img src='https://effector.dev/img/comet.png' alt='Effector' title='Effector' width='48px' height='48px'>
+<img src='https://skillicons.dev/icons?i=figma' alt='Figma' title='Figma' width='48px' height='48px'>
 
 ## Socials
 
