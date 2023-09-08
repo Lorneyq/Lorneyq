@@ -24,5 +24,6 @@
 ## Merch
 
 <a href='https://t.me/addstickers/LorneyqMadeItStickers' title='Lorneyq Telegram Sticker Pack🌐' target='_blank'><img src='https://i.pinimg.com/564x/bc/7a/bc/bc7abc5ad2950eb9d6b3cdc66ba9de14.jpg' alt='Lorneyq Telegram Sticker Pack🌐' width='48px' height='48px'></a>
+<a href='https://t.me/addemoji/LorneyqMadeIt' title='Lorneyq Telegram Emoji Pack📲' target='_blank'><img src='https://cdn-icons-png.flaticon.com/512/1500/1500458.png' alt='Lorneyq Telegram Emoji Pack📲' width='48px' height='48px'></a>
 ___
 > # Lorneyq Made It
