@@ -13,10 +13,11 @@
 <img src='https://skillicons.dev/icons?i=pug' alt='Pug / Jade' title='Pug / Jade' width='48px' height='48px'>
 <img src='https://effector.dev/img/comet.png' alt='Effector' title='Effector' width='48px' height='48px'>
 <img src='https://skillicons.dev/icons?i=figma' alt='Figma' title='Figma' width='48px' height='48px'>
+<img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/greensock-man-512x512.png' alt='GSAP' title='GSAP' width='48px' height='48px'>
 
 ## Socials
 
-<a href='https://lorneyq.vercel.app/' title='My Website' target='_blank'><img src='https://lorneyq.vercel.app/_next/static/media/favicon.a8ab575f.ico' alt='My Website' width='48px' height='48px'></a>
+<a href='https://lorneyq.dev' title='My Website' target='_blank'><img src='https://lorneyq.vercel.app/_next/static/media/favicon.a8ab575f.ico' alt='My Website' width='48px' height='48px'></a>
 <a href='https://www.linkedin.com/in/lorneyq' title='LinkedIn' target='_blank'><img src='https://skillicons.dev/icons?i=linkedin' alt='LinkedIn' width='48px' height='48px'></a>
 <a href='https://www.x.com/lorneyqq' title='X' target='_blank'><img src='https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000' alt='X' width='48px' height='48px'></a>
 <a href='https://www.instagram.com/lorneyq' title='Instagram' target='_blank'><img src='https://skillicons.dev/icons?i=instagram' alt='Instagram' width='48px' height='48px'></a>
