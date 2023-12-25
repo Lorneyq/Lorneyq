@@ -11,7 +11,7 @@
 <img src='https://skillicons.dev/icons?i=tailwind' alt='Tailwind' title='Tailwind' width='48px' height='48px'>
 <img src='https://skillicons.dev/icons?i=sass' alt='Sass' title='Sass' width='48px' height='48px'>
 <img src='https://skillicons.dev/icons?i=pug' alt='Pug / Jade' title='Pug / Jade' width='48px' height='48px'>
-<img src='https://effector.dev/img/comet.png' alt='Effector' title='Effector' width='48px' height='48px'>
+<img src='https://seeklogo.com/images/E/effector-logo-F9B271556D-seeklogo.com.png' alt='Effector' title='Effector' width='48px' height='48px'>
 <img src='https://skillicons.dev/icons?i=figma' alt='Figma' title='Figma' width='48px' height='48px'>
 <img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/greensock-man-512x512.png' alt='GSAP' title='GSAP' width='48px' height='48px'>
 
