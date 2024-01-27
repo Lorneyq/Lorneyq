@@ -3,17 +3,18 @@
 ### I'm a frontend developer who is based in React, Next.js, and learning something new every day💅
 
 ## Skills
-<img src='https://skillicons.dev/icons?i=html' alt='HTML' title='HTML' width='48px' height='48px'> <img src='https://skillicons.dev/icons?i=css' alt='CSS' title='CSS' width='48px' height='48px'>
-<img src='https://skillicons.dev/icons?i=js' alt='JavaScript' title='JavaScript' width='48px' height='48px'>
-<img src='https://skillicons.dev/icons?i=ts' alt='TypeScript' title='TypeScript' width='48px' height='48px'>
-<img src='https://skillicons.dev/icons?i=react' alt='React' title='React' width='48px' height='48px'>
-<img src='https://skillicons.dev/icons?i=next' alt='Next.js' title='Next.js' width='48px' height='48px'>
-<img src='https://skillicons.dev/icons?i=tailwind' alt='Tailwind' title='Tailwind' width='48px' height='48px'>
-<img src='https://skillicons.dev/icons?i=sass' alt='Sass' title='Sass' width='48px' height='48px'>
-<img src='https://skillicons.dev/icons?i=pug' alt='Pug / Jade' title='Pug / Jade' width='48px' height='48px'>
-<img src='https://seeklogo.com/images/E/effector-logo-F9B271556D-seeklogo.com.png' alt='Effector' title='Effector' width='48px' height='48px'>
-<img src='https://skillicons.dev/icons?i=figma' alt='Figma' title='Figma' width='48px' height='48px'>
-<img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/greensock-man-512x512.png' alt='GSAP' title='GSAP' width='48px' height='48px'>
+<img src='https://api-lorneyq.online/media/projects/stack-icons/html.svg' alt='HTML' title='HTML' width='48px' height='48px'>
+<img src='https://api-lorneyq.online/media/projects/stack-icons/css.svg' alt='CSS' title='CSS' width='48px' height='48px'>
+<img src='https://api-lorneyq.online/media/projects/stack-icons/javascript.svg' alt='JavaScript' title='JavaScript' width='48px' height='48px'>
+<img src='https://api-lorneyq.online/media/projects/stack-icons/typescript.svg' alt='TypeScript' title='TypeScript' width='48px' height='48px'>
+<img src='https://api-lorneyq.online/media/projects/stack-icons/react.svg' alt='React' title='React' width='48px' height='48px'>
+<img src='https://api-lorneyq.online/media/projects/stack-icons/next.js.svg' alt='Next.js' title='Next.js' width='48px' height='48px'>
+<img src='https://api-lorneyq.online/media/projects/stack-icons/tailwind.svg' alt='Tailwind' title='Tailwind' width='48px' height='48px'>
+<img src='https://api-lorneyq.online/media/projects/stack-icons/sass.svg' alt='Sass' title='Sass' width='48px' height='48px'>
+<img src='https://api-lorneyq.online/media/projects/stack-icons/pug.svg' alt='Pug / Jade' title='Pug / Jade' width='48px' height='48px'>
+<img src='https://api-lorneyq.online/media/projects/stack-icons/effector.svg' alt='Effector' title='Effector' width='48px' height='48px'>
+<img src='https://api-lorneyq.online/media/projects/stack-icons/figma.svg' alt='Figma' title='Figma' width='48px' height='48px'>
+<img src='https://api-lorneyq.online/media/projects/stack-icons/gsap.svg' alt='GSAP' title='GSAP' width='48px' height='48px'>
 
 ## Socials
 
