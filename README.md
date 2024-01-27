@@ -3,6 +3,7 @@
 ### I'm a frontend developer who is based in React, Next.js, and learning something new every day💅
 
 ## Skills
+<div style={{display: flex}}>
 <img src='https://api-lorneyq.online/media/projects/stack-icons/html.svg' alt='HTML' title='HTML' width='48px' height='48px'>
 <img src='https://api-lorneyq.online/media/projects/stack-icons/css.svg' alt='CSS' title='CSS' width='48px' height='48px'>
 <img src='https://api-lorneyq.online/media/projects/stack-icons/javascript.svg' alt='JavaScript' title='JavaScript' width='48px' height='48px'>
@@ -15,6 +16,7 @@
 <img src='https://api-lorneyq.online/media/projects/stack-icons/effector.svg' alt='Effector' title='Effector' width='48px' height='48px'>
 <img src='https://api-lorneyq.online/media/projects/stack-icons/figma.svg' alt='Figma' title='Figma' width='48px' height='48px'>
 <img src='https://api-lorneyq.online/media/projects/stack-icons/gsap.svg' alt='GSAP' title='GSAP' width='48px' height='48px'>
+</div>
 
 ## Socials
 
