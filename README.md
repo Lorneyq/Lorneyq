@@ -27,7 +27,7 @@
 <a href='https://www.linkedin.com/in/lorneyq' title='LinkedIn' target='_blank'><img src='https://skillicons.dev/icons?i=linkedin' alt='LinkedIn' width='48px' height='48px'></a>
 <a href='https://www.x.com/lorneyqq' title='X' target='_blank'><img src='https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000' alt='X' width='48px' height='48px'></a>
 <a href='https://www.instagram.com/lorneyq' title='Instagram' target='_blank'><img src='https://skillicons.dev/icons?i=instagram' alt='Instagram' width='48px' height='48px'></a>
-<a href='https://www.npmjs.com/~lorneyq' title='My libraries' target='_blank'><img src='https://static-00.iconduck.com/assets.00/npm-icon-512x512-j804lec4.png' alt='Npm' width='48px' height='48px'></a>
+<a href='https://www.npmjs.com/~lorneyq' title='My libraries' target='_blank'><img src='https://authy.com/wp-content/uploads/npm-logo.png' alt='Npm' width='48px' height='48px'></a>
 
 ## Merch
 
