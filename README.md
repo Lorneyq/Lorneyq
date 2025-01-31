@@ -4,21 +4,21 @@
 
 ## Skills
 <div style={{display: flex}}>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/html.svg' alt='HTML' title='HTML' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/css.svg' alt='CSS' title='CSS' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/javascript.svg' alt='JavaScript' title='JavaScript' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/typescript.svg' alt='TypeScript' title='TypeScript' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/node.js.svg' alt='Node.js' title='Node.js' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/react.svg' alt='React' title='React' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/next.js.svg' alt='Next.js' title='Next.js' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/tailwind.svg' alt='Tailwind' title='Tailwind' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/sass.svg' alt='Sass' title='Sass' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/pug.svg' alt='Pug / Jade' title='Pug / Jade' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/effector.svg' alt='Effector' title='Effector' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/figma.svg' alt='Figma' title='Figma' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/gsap.svg' alt='GSAP' title='GSAP' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/telegraf.svg' alt='Telegraf' title='Telegraf' width='48px' height='48px'>
-<img src='https://api-lorneyq.online/media/projects/stack-icons/expo.svg' alt='Expo' title='Expo' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/html.svg' alt='HTML' title='HTML' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/css.svg' alt='CSS' title='CSS' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/javascript.svg' alt='JavaScript' title='JavaScript' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/typescript.svg' alt='TypeScript' title='TypeScript' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/node.js.svg' alt='Node.js' title='Node.js' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/react.svg' alt='React' title='React' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/next.js.svg' alt='Next.js' title='Next.js' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/tailwind.svg' alt='Tailwind' title='Tailwind' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/sass.svg' alt='Sass' title='Sass' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/pug.svg' alt='Pug / Jade' title='Pug / Jade' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/effector.svg' alt='Effector' title='Effector' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/figma.svg' alt='Figma' title='Figma' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/gsap.svg' alt='GSAP' title='GSAP' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/telegraf.svg' alt='Telegraf' title='Telegraf' width='48px' height='48px'>
+<img src='https://api-lorneyq.space/media/projects/stack-icons/expo.svg' alt='Expo' title='Expo' width='48px' height='48px'>
 </div>
 
 ## Socials
